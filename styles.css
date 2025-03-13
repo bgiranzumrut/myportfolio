@@ -610,6 +610,6 @@ textarea {
 @media (max-width: 430px) {
   .me {
     top: 20%;
-    width: 30vw;
+    width: 40vw;
   }
 }
